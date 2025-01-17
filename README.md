@@ -20,7 +20,9 @@ This project involves extracting named entities such as locations, prices, and p
 |       __init__.py
 |       
 \---tests
-        __init__.py```
+        __init__.py
+```
+
 ## **Main Components**
 **1. Data Preprocessing**
 The raw text data is cleaned and preprocessed. It contains a mix of languages (English and Amharic), but mostly amharic and the data is prepared for tokenization.
