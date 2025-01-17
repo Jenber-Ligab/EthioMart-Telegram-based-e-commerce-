@@ -1,4 +1,4 @@
 .venv
 .env
 /data
-/scripts/__pychache*
+/scripts/__pycache*
